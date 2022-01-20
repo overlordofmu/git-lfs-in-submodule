@@ -2,3 +2,6 @@
   publish = "git-lfs-only"
   command = "echo 'There is no build command.'"
 
+[build.environment]
+  GIT_LFS_ENABLED=1
+  GIT_LFS_FETCH_INCLUDE="*.jpg,*.png,*.jpeg,*.svg,*.gif,*.pdf,*.mp4,*.bmp,*.webp,*.mov"
