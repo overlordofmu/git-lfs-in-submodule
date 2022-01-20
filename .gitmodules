@@ -1,0 +1,3 @@
+[submodule "git-lfs-only"]
+	path = git-lfs-only
+	url = https://github.com/overlordofmu/git-lfs-only

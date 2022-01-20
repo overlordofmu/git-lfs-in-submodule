@@ -1,0 +1,4 @@
+[build]
+  publish = "git-lfs-only"
+  command = "echo 'There is no build command.'"
+
